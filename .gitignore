@@ -1,0 +1,8 @@
+# no movie folders
+**/movies
+
+# no Tennis jupyter notebooks
+Tennis*.ipynb
+
+# ignore logs
+*.log
